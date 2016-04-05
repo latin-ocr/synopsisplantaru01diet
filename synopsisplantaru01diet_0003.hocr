@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisplantaru01diet_0003.png"; bbox 0 0 2202 3787; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 472 521 1863 2774">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 472 521 1863 2774">
+     <span class='ocr_line' id='line_1_1' title="bbox 472 521 1863 2774; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 472 521 1863 2774; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 836 2776 1514 2899">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 836 2776 1514 2899">
+     <span class='ocr_line' id='line_1_2' title="bbox 926 2776 1294 2817; baseline -0.005 -6"><span class='ocrx_word' id='word_1_2' title='bbox 926 2789 929 2792; x_wconf 58' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1091 2780 1224 2817; x_wconf 65' lang='lat' dir='ltr'><strong>munt</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1248 2776 1294 2809; x_wconf 82' lang='lat' dir='ltr'><strong>uf</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 836 2833 1514 2899; baseline -0.001 -10"><span class='ocrx_word' id='word_1_5' title='bbox 836 2834 1076 2899; x_wconf 54' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1102 2834 1172 2888; x_wconf 57' lang='lat'><strong>35.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1210 2833 1514 2888; x_wconf 63' lang='lat' dir='ltr'><strong>mathew-:ie</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 327 2910 1853 3364">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 327 2910 1853 3364">
+     <span class='ocr_line' id='line_1_4' title="bbox 327 2910 1853 3364; baseline 0 423"><span class='ocrx_word' id='word_1_8' title='bbox 327 2910 1853 3364; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
